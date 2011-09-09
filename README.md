@@ -22,6 +22,11 @@ Or if you prefer, the standard css way:
 
 For more info, refer to the docs!
 
+SASS & Rails
+------------
+
+Coming soon Rails 3.1 support.
+
 
 Versioning
 ----------
