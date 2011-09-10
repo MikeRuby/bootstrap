@@ -27,6 +27,10 @@ SASS & Rails
 
 Coming soon Rails 3.1 support.
 
+Coming soon Bootstrapper gem. This will generate layouts and scaffolding for rails 3.1 projects.
+
+For more info watch https://github.com/MikeRuby/bootstrapper
+
 
 Versioning
 ----------
